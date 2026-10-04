@@ -1,0 +1,1 @@
+# terraform-s3-bucket-create-and-host-static-website-IAC-code-in-HCL--project
